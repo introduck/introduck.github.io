@@ -1,0 +1,1 @@
+System.register(["./ui-background-legacy.c05880a2.js","./index-legacy.65cb2bb5.js"],(function(e){"use strict";var t,c,n,u,s;return{setters:[function(e){t=e.c},function(e){c=e.d,n=e.o,u=e.c,s=e.u}],execute:function(){e("default",c({name:"terms",setup:e=>(e,c)=>(n(),u(s(t)))}))}}}));
