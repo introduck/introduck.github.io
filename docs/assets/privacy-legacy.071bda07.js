@@ -1,1 +1,0 @@
-System.register(["./ui-background-legacy.c05880a2.js","./index-legacy.65cb2bb5.js"],(function(e){"use strict";var t,c,n,u,a;return{setters:[function(e){t=e.a},function(e){c=e.d,n=e.o,u=e.c,a=e.u}],execute:function(){e("default",c({name:"privacy",setup:e=>(e,c)=>(n(),u(a(t)))}))}}}));

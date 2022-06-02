@@ -1,0 +1,1 @@
+System.register(["./ui-background-legacy.22a911c8.js","./index-legacy.6cff70f3.js"],(function(e){"use strict";var t,c,n,u,f;return{setters:[function(e){t=e.b},function(e){c=e.d,n=e.o,u=e.c,f=e.u}],execute:function(){e("default",c({name:"profile",setup:e=>(e,c)=>(n(),u(f(t)))}))}}}));
