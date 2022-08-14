@@ -1,1 +1,0 @@
-import{c as e}from"./ui-background.ff426c9f.js";import{_ as o,d as a,o as r,c as s,u as _}from"./index.c07e8e3f.js";const c=o(e,[["__scopeId","data-v-e7600d35"]]),i=a({__name:"profile",setup(t){return(n,p)=>(r(),s(_(c)))}});export{i as default};
