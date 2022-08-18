@@ -1,1 +1,0 @@
-import{_ as a}from"./ui-modal.b9e301c1.js";import{_ as e,d as o,o as _,c as s,u as c}from"./index.f0b2ec04.js";const n=e(a,[["__scopeId","data-v-2919131c"]]),d=o({__name:"200",setup(t){return(r,p)=>(_(),s(c(n)))}});export{d as default};
