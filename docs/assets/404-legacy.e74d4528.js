@@ -1,1 +1,0 @@
-System.register(["./ui-modal-legacy.f325250b.js","./index-legacy.29abe05c.js"],(function(e){"use strict";var t,s,u,a,c;return{setters:[e=>{t=e.a},e=>{s=e.d,u=e.o,a=e.c,c=e.u}],execute:function(){e("default",s({__name:"404",setup:e=>(e,s)=>(u(),a(c(t)))}))}}}));
