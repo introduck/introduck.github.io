@@ -1,0 +1,1 @@
+System.register(["./ui-modal.vue_vue_type_style_index_0_scoped_ac58a59a_lang-legacy.7cfb3bdd.js","./index-legacy.e40a22c7.js"],(function(e,t){"use strict";var _,a,c,s,d,u;return{setters:[e=>{_=e._},e=>{a=e._,c=e.d,s=e.o,d=e.c,u=e.u}],execute:function(){const t=a(_,[["__scopeId","data-v-ddb0456b"]]);e("default",c({__name:"200",setup:e=>(e,_)=>(s(),d(u(t)))}))}}}));
