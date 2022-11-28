@@ -1,1 +1,0 @@
-import{b as a}from"./ui-modal.vue_vue_type_style_index_0_scoped_ac58a59a_lang.9b6b42e2.js";import{_ as e,d as s,o,c as t,u as r}from"./index.f2f1d575.js";const _=e(a,[["__scopeId","data-v-ced63555"]]),d=s({__name:"drafts",setup(c){return(n,f)=>(o(),t(r(_)))}});export{d as default};
