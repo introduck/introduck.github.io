@@ -1,0 +1,1 @@
+System.register(["./ui-modal.vue_vue_type_style_index_0_scoped_ac58a59a_lang-legacy.46673e9f.js","./index-legacy.8456e825.js"],(function(e,t){"use strict";var u,a,s,_,c;return{setters:[e=>{u=e.b},e=>{a=e.d,s=e.o,_=e.c,c=e.u}],execute:function(){e("default",a({__name:"auth",setup:e=>(e,t)=>(s(),_(c(u)))}))}}}));

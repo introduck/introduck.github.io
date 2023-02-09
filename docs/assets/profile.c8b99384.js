@@ -1,1 +1,0 @@
-import{f as e}from"./ui-modal.vue_vue_type_style_index_0_scoped_ac58a59a_lang.42081e21.js";import{_ as o,d as a,o as r,c as s,u as _}from"./index.03abf65d.js";const c=o(e,[["__scopeId","data-v-c2698eb6"]]),i=a({__name:"profile",setup(t){return(n,f)=>(r(),s(_(c)))}});export{i as default};

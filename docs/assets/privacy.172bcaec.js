@@ -1,0 +1,1 @@
+import{e}from"./ui-modal.vue_vue_type_style_index_0_scoped_ac58a59a_lang.0fb833df.js";import{d as a,o,c as r,u as c}from"./index.8c4ad944.js";const m=a({__name:"privacy",setup(n){return(s,t)=>(o(),r(c(e)))}});export{m as default};
